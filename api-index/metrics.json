@@ -1,1 +1,86 @@
+{
+  "fontSizes": {
+    "unit-px": {
+      "micro": "10px",
+      "nano": "12px",
+      "macro": "14px",
+      "extreme-small": "16px",
+      "very-small": "18px",
+      "small": "20px",
+      "medium-small": "24px",
+      "medium": "28px",
+      "medium-large": "32px",
+      "medium-extreme-large": "36px",
+      "large": "40px",
+      "very-large": "44px",
+      "extreme-large": "48px",
+      "super-large": "52px"
+    },
+    "unit-em": {
+      "micro": "0.5em",
+      "nano": "0.6em",
+      "macro": "0.7em",
+      "extreme-small": "0.8em",
+      "very-small": "0.9em",
+      "small": "1em",
+      "medium-small": "1.2em",
+      "medium": "1.4em",
+      "medium-large": "1.6em",
+      "medium-extreme-large": "1.8em",
+      "large": "2em",
+      "very-large": "2.2em",
+      "extreme-large": "2.4em",
+      "super-large": "2.6em"
+    },
+    "unit-rem": {
+      "micro": "0.5rem",
+      "nano": "0.6rem",
+      "macro": "0.7rem",
+      "extreme-small": "0.8rem",
+      "very-small": "0.9rem",
+      "small": "1rem",
+      "medium-small": "1.2rem",
+      "medium": "1.4rem",
+      "medium-large": "1.6rem",
+      "medium-extreme-large": "1.8rem",
+      "large": "2rem",
+      "very-large": "2.2rem",
+      "extreme-large": "2.4rem",
+      "super-large": "2.6rem"
+    },
+    "unit-percent": {
+      "micro": "1%",
+      "nano": "2%",
+      "macro": "3%",
+      "extreme-small": "4%",
+      "very-small": "5%",
+      "small": "6%",
+      "medium-small": "8%",
+      "medium": "10%",
+      "medium-large": "12%",
+      "medium-extreme-large": "14%",
+      "large": "16%",
+      "very-large": "18%",
+      "extreme-large": "20%",
+      "super-large": "22%"
+    },
+    "unit-pc": {
+      "micro": "1pc",
+      "nano": "1.2pc",
+      "macro": "1.4pc",
+      "extreme-small": "1.6pc",
+      "very-small": "1.8pc",
+      "small": "2pc",
+      "medium-small": "2.4pc",
+      "medium": "2.8pc",
+      "medium-large": "3.2pc",
+      "medium-extreme-large": "3.6pc",
+      "large": "4pc",
+      "very-large": "4.4pc",
+      "extreme-large": "4.8pc",
+      "super-large": "5.2pc"
+    }
+  },
+ 
+}
 
