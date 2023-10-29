@@ -83,7 +83,7 @@
   },
 
   
-  "textStretch": {
+  "stretch": {
     "unit-px": {
       "micro": "10px",
       "nano": "12px",
@@ -167,7 +167,7 @@
     
   },
 
-    "letterSpacing": {
+    "letter-spacing": {
     "unit-px": {
       "tight": "0.5px",
       "normal": "1px",
@@ -190,7 +190,7 @@
     },
 
 
-  "strokeWidth": {
+  "stroke-width": {
     "unit-px": {
       "thin": "1px",
       "normal": "2px",
@@ -210,6 +210,150 @@
       "extra-thick": "0.4rem"
     } 
 
- 
+ {
+    "padding": {
+        "nano": {
+            "px": {
+                "top": "6.750",
+                "left": "6.750",
+                "right": "6.750",
+                "bottom": "6.750"
+            },
+            "em": {
+                "top": "0.5",
+                "left": "0.5",
+                "right": "0.5",
+                "bottom": "0.5"
+            },
+            "rem": {
+                "top": "1.5",
+                "left": "1.5",
+                "right": "1.5",
+                "bottom": "1.5"
+            }
+        },
+        "extra-small": {
+            "px": {
+                "top": "8.550",
+                "left": "8.550",
+                "right": "8.550",
+                "bottom": "8.550"
+            },
+            "em": {
+                "top": "2.5",
+                "left": "2.5",
+                "right": "2.5",
+                "bottom": "2.5"
+            },
+            "rem": {
+                "top": "3.500",
+                "left": "3.500",
+                "right": "3.500",
+                "bottom": "3.500"
+            }
+        },
+        "small": {
+            "px": {
+                "top": "9.450",
+                "left": "9.450",
+                "right": "9.450",
+                "bottom": "9.450"
+            },
+            "em": {
+                "top": "2.7",
+                "left": "2.7",
+                "right": "2.7",
+                "bottom": "2.7"
+            },
+            "rem": {
+                "top": "4.100",
+                "left": "4.100",
+                "right": "4.100",
+                "bottom": "4.100"
+            }
+        },
+        "medium": {
+            "px": {
+                "top": "16.650",
+                "left": "16.650",
+                "right": "16.650",
+                "bottom": "16.650"
+            },
+            "em": {
+                "top": "3.500",
+                "left": "3.500",
+                "right": "3.500",
+                "bottom": "3.500"
+            },
+            "rem": {
+                "top": "6.100",
+                "left": "6.100",
+                "right": "6.100",
+                "bottom": "6.100"
+            }
+        },
+        "large": {
+            "px": {
+                "top": "34.650",
+                "left": "34.650",
+                "right": "34.650",
+                "bottom": "34.650"
+            },
+            "em": {
+                "top": "7.500",
+                "left": "7.500",
+                "right": "7.500",
+                "bottom": "7.500"
+            },
+            "rem": {
+                "top": "12.100",
+                "left": "12.100",
+                "right": "12.100",
+                "bottom": "12.100"
+            }
+        },
+        "extra-large": {
+            "px": {
+                "top": "40.950",
+                "left": "40.950",
+                "right": "40.950",
+                "bottom": "40.950"
+            },
+            "em": {
+                "top": "9.500",
+                "left": "9.500",
+                "right": "9.500",
+                "bottom": "9.500"
+            },
+            "rem": {
+                "top": "16.100",
+                "left": "16.100",
+                "right": "16.100",
+                "bottom": "16.100"
+            }
+        },
+        "extreme-large": {
+            "px": {
+                "top": "85.950",
+                "left": "85.950",
+                "right": "85.950",
+                "bottom": "85.950"
+            },
+            "em": {
+                "top": "11.500",
+                "left": "11.500",
+                "right": "11.500",
+                "bottom": "11.500"
+            },
+            "rem": {
+                "top": "20.100",
+                "left": "20.100",
+                "right": "20.100",
+                "bottom": "20.100"
+            }
+        }
+    }
+}
+
 }
 
