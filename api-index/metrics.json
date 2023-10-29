@@ -187,6 +187,29 @@
       "extra-wide": "0.2rem"
     }
 
+    },
+
+
+  "strokeWidth": {
+    "unit-px": {
+      "thin": "1px",
+      "normal": "2px",
+      "thick": "3px",
+      "extra-thick": "4px"
+    },
+    "unit-em": {
+      "thin": "0.1em",
+      "normal": "0.2em",
+      "thick": "0.3em",
+      "extra-thick": "0.4em"
+    },
+    "unit-rem": {
+      "thin": "0.1rem",
+      "normal": "0.2rem",
+      "thick": "0.3rem",
+      "extra-thick": "0.4rem"
+    } 
+
  
 }
 
