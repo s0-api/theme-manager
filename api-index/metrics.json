@@ -165,7 +165,27 @@
       "super-large": "5.2pc"
     }
     
-  }
+  },
+
+    "letterSpacing": {
+    "unit-px": {
+      "tight": "0.5px",
+      "normal": "1px",
+      "wide": "1.5px",
+      "extra-wide": "2px"
+    },
+    "unit-em": {
+      "tight": "0.05em",
+      "normal": "0.1em",
+      "wide": "0.15em",
+      "extra-wide": "0.2em"
+    },
+    "unit-rem": {
+      "tight": "0.05rem",
+      "normal": "0.1rem",
+      "wide": "0.15rem",
+      "extra-wide": "0.2rem"
+    }
 
  
 }
